@@ -1,3 +1,5 @@
+### ⚠️ Development has stopped completely.
+
 # Static Web Apps
 
 This repository contains apps that can be used with as a starting point for some MS Learn Modules. because everyone has their own preference for their JavaScript frameworks/library, you can choose which one you prefer.
